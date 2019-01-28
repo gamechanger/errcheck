@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/agamdua/errcheck/internal/errcheck"
-	"github.com/agamdua/gotool"
+	"github.com/kisielk/gotool"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-const testPackage = "github.com/kisielk/errcheck/testdata"
+const testPackage = "github.com/agamdua/errcheck/testdata"
 
 var (
 	uncheckedMarkers map[marker]bool

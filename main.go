@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/agamdua/errcheck/internal/errcheck"
+	"github.com/gamechanger/errcheck/internal/errcheck"
 	"github.com/kisielk/gotool"
 )
 
